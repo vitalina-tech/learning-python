@@ -1,4 +1,4 @@
-#Lucky Prediction
+# Lucky Prediction
 A chaotic little fortune generator.
 ## What is this?
 You run it. It drops random nonsense, wisdom, and sudden sparcks of inspiration.
