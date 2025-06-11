@@ -1,6 +1,6 @@
-#Unit Converter
+# Unit Converter
 A simple unit converter for length units (m, km, cm, mm)
-##What I Practiced
+## What I Practiced
 - Writing and calling functions using def and return
 
 - Using dictionaries for data lookup
@@ -16,6 +16,6 @@ A simple unit converter for length units (m, km, cm, mm)
 - Formatting output with f-strings, including .4f for decimal precision
 
 - Using if name == "main": to run code only when the script is executed directly
-##How to Run
+## How to Run
 `bash
 python convert_it.py
