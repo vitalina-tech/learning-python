@@ -5,7 +5,7 @@ def countdown(minutes):
         mins=total_seconds//60
         secs=total_seconds%60
         print(f'Time left:{mins:02d}:{secs:02d}',end='\r')
-        time.sleep(0.1)
+        time.sleep(1)
         total_seconds-=1
     else:
         print("Time's up!        ")
