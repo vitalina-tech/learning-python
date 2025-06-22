@@ -21,5 +21,5 @@ A terminal Pomodoro timer where you can set:
 ### time.sleep
 Used to pause the program between countdown steps.
 ## How to run
-'''bash
+```bash
 python pomodoro_timer.py
